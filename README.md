@@ -5,4 +5,7 @@
   <img alt="Contribution graph" src="https://raw.githubusercontent.com/ZeeWasHeree/ZeeWasHeree/output/pacman-contribution-graph.svg">
 </picture>
 
-[![instagram](https://www.readmecodegen.com/api/social-icon?name=instagram&reverseBackground=true)](https://instagram.com/hi.zeeeeeee)
+# My Socials
+<p align="center">
+  [![instagram](https://www.readmecodegen.com/api/social-icon?name=instagram&reverseBackground=true)](https://instagram.com/hi.zeeeeeee)
+</p>
