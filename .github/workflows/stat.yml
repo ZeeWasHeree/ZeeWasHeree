@@ -19,7 +19,7 @@ jobs:
         with:
           token: ${{ secrets.TOKEN }}
           card: stats
-          path: generated_stats/stats.svg
+          path: stats/stats.svg
           options: "&username=ZeeWasHeree&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true"
 
       - name: Generate Top Languages
@@ -27,7 +27,7 @@ jobs:
         with:
           token: ${{ secrets.TOKEN }}
           card: top-langs
-          path: generated_stats/languages.svg
+          path: stats/languages.svg
           options: "&username=ZeeWasHeree&theme=nightowl&layout=compact"
 
       - name: Commit & Push
