@@ -27,11 +27,16 @@
 </p>
 
 # My Socials
-<p align="center">
+<p align="center" margin="100">
   <a href="https://instagram.com/hi.zeeeeeee"><img alt="Instagram" src="https://www.readmecodegen.com/api/social-icon?name=instagram&reverseBackground=true"></a>
+  &emsp;
   <a href="mailto:iamerianmuizz@gmail.com"><img alt="Email" src="https://www.readmecodegen.com/api/social-icon?name=gmail&reverseBackground=true"></a>
+  &emsp;
   <a href="https://discord.com/users/1292071118634614816"><img alt="Discord" src="https://www.readmecodegen.com/api/social-icon?name=discord&reverseBackground=true"></a>
+  &emsp;
   <a href="https://linkedin.com/in/iam-erian-muizz"><img alt="Linkedin" src="https://www.readmecodegen.com/api/social-icon?name=linkedin&reverseBackground=true"></a>
+  &emsp;
   <a href="https://open.spotify.com/user/31vmxpwpi4qhzdv7r242iko37anq"><img alt="Spotify" src="https://www.readmecodegen.com/api/social-icon?name=spotify&reverseBackground=true"></a>
+  &emsp;
   <a href="https://www.xbox.com/id-ID/play/user/ZeeWasHeree"><img alt="Xbox" src="https://www.readmecodegen.com/api/social-icon?name=xbox&reverseBackground=true"></a>
 </p>
