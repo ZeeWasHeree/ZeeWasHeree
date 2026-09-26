@@ -22,6 +22,8 @@
   <img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge&logo=fastapi" alt="REST API"/>
   <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git" alt="Git"/>
   <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=4dabcf" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Discord.js-111827?style=for-the-badge&logo=discorddotjs" alt="Discord.js"/>
 </p>
 
 # My Socials
