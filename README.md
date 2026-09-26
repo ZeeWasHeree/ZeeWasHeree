@@ -7,5 +7,5 @@
 
 # My Socials
 <p align="center">
-  [![instagram](https://www.readmecodegen.com/api/social-icon?name=instagram&reverseBackground=true)](https://instagram.com/hi.zeeeeeee)
+  <a href="https://instagram.com/hi.zeeeeeee"><img alt="instagram" src="https://www.readmecodegen.com/api/social-icon?name=instagram&reverseBackground=true"></a>
 </p>
