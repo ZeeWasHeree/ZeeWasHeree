@@ -5,7 +5,7 @@
   <img alt="Contribution graph" src="https://raw.githubusercontent.com/ZeeWasHeree/ZeeWasHeree/output/pacman-contribution-graph.svg">
 </picture>
 
-# Preferred Language
+# Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css&logoColor=2965f1" alt="CSS3"/>
