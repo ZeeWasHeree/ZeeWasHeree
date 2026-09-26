@@ -1,0 +1,40 @@
+name: GitHub Readme Stats Action
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Main Stats
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          token: ${{ secrets.GH_PAT }}
+          card: stats
+          path: generated_stats/stats.svg
+          options: "&username=ZeeWasHeree&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true"
+
+      - name: Generate Top Languages
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          token: ${{ secrets.GH_PAT }}
+          card: top-langs
+          path: generated_stats/languages.svg
+          options: "&username=ZeeWasHeree&theme=nightowl&layout=compact"
+
+      - name: Commit & Push
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@://github.com'
+          mkdir -p stats
+          git add stats/*.svg
+          git commit -m "Update GitHub Stats & Languages" || echo "No changes to commit"
+          git push
