@@ -36,8 +36,8 @@
   <img src="https://img.shields.io/badge/Acode-111827?style=for-the-badge&logo=acode" alt="Acode"/>
 </p>
 
-# My Socials
-<p align="center" margin="100">
+# Socials
+<p align="center">
   <a href="https://instagram.com/hi.zeeeeeee"><img alt="Instagram" src="https://www.readmecodegen.com/api/social-icon?name=instagram&reverseBackground=true"></a>
   &emsp;
   <a href="mailto:iamerianmuizz@gmail.com"><img alt="Email" src="https://www.readmecodegen.com/api/social-icon?name=gmail&reverseBackground=true"></a>
