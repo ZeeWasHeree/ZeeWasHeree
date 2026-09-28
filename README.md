@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Discord.js-111827?style=for-the-badge&logo=discorddotjs" alt="Discord.js"/>
 </p>
 
-# Tools
+# My Tools
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Replit-111827?style=for-the-badge&logo=replit" alt="Replit"/>
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Acode-111827?style=for-the-badge&logo=acode" alt="Acode"/>
 </p>
 
-# Socials
+# My Socials
 <p align="center">
   <a href="https://instagram.com/hi.zeeeeeee"><img alt="Instagram" src="https://www.readmecodegen.com/api/social-icon?name=instagram&reverseBackground=true"></a>
   &emsp;
