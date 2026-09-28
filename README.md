@@ -26,6 +26,16 @@
   <img src="https://img.shields.io/badge/Discord.js-111827?style=for-the-badge&logo=discorddotjs" alt="Discord.js"/>
 </p>
 
+# Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Replit-111827?style=for-the-badge&logo=replit" alt="Replit"/>
+  <img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Netlify-111827?style=for-the-badge&logo=netlify" alt="Netlify"/>
+  <img src="https://img.shields.io/badge/Termux-111827?style=for-the-badge&logo=gnubash&logoColor=ffffff" alt="Termux"/>
+  <img src="https://img.shields.io/badge/Acode-111827?style=for-the-badge&logo=acode" alt="Acode"/>
+</p>
+
 # My Socials
 <p align="center" margin="100">
   <a href="https://instagram.com/hi.zeeeeeee"><img alt="Instagram" src="https://www.readmecodegen.com/api/social-icon?name=instagram&reverseBackground=true"></a>
