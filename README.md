@@ -50,3 +50,8 @@
   &emsp;
   <a href="https://www.xbox.com/id-ID/play/user/ZeeWasHeree"><img alt="Xbox" src="https://www.readmecodegen.com/api/social-icon?name=xbox&reverseBackground=true"></a>
 </p>
+
+# GitHub Stats
+<picture>
+  <img alt="Most used language" src="https://raw.githubusercontent.com/ZeeWasHeree/ZeeWasHeree/output/languages.svg">
+</picture>
