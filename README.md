@@ -54,6 +54,6 @@
 # GitHub Stats
 <p align="center">
   <picture>
-    <img alt="Most used language" src="https://raw.githubusercontent.com/ZeeWasHeree/ZeeWasHeree/output/languages.svg">
+    <img src="https://raw.githubusercontent.com/ZeeWasHeree/ZeeWasHeree/output/languages.svg" alt="Most used language">
   </picture>
 </p>
